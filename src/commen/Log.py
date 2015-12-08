@@ -4,7 +4,7 @@ import logging
 import os
 import time
 
-# LOG_FILE=os.path.abspath(os.path.dirname("../../resource/test.log"))+"\\test.log"
+#LOG_FILE = os.path.abspath(os.path.dirname("../../resource/test.log"))+"\\test.log"
 #LOG_FILE="../../resource/test.log"
 
 
